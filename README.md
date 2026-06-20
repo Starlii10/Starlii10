@@ -1,4 +1,4 @@
-# Hiiiii!
+# Hi!
 
 Website tells you everything you need to know about me. <https://starlii10.github.io/>
 
